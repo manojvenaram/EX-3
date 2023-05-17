@@ -20,7 +20,7 @@ will send NACKsignal to client.
 ### Client.py
 ```
 import socket
-PROGRAM :	s = socket.socket()
+s = socket.socket()
 s.bind(('localhost', 8000))
 s.listen(5)
 c, addr = s.accept()
