@@ -57,8 +57,6 @@ OUTPUT :	while True:
 ### Server
 ![](3s.png)
 
-
-RESULT:	
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
 
